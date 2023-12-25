@@ -1,0 +1,48 @@
+*{
+    font-family: "Poppins", sans-serif;
+    background-color: #faf9f6;
+}
+h3{
+    color: rgb(250, 163, 50);
+    font-style: italic;
+}
+article{
+    font-weight: bold;
+    font-size:1.7em ;
+}
+#creative{
+    color: rgb(0, 0, 153);
+}
+img{
+ margin-top: 20px;
+    width: 150px;
+}
+ .first{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+   
+}
+.exp{
+    font-size: 10px;
+    /* font-weight: bold; */   
+}
+.text{
+    margin-left: 20px;
+}
+
+.beauty{
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+   
+}
+.sec{
+    margin-left: 100px;
+}
+footer{
+   margin-top: 200px;
+    font-size: 10px;
+    text-align: right;
+}
